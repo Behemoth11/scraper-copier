@@ -22,7 +22,7 @@
     "mysql2": "^2.3.3",
     "pkg": "^5.5.2",
     "sqlite3": "^5.0.2",
-    "yargs": "^17.3.1"
+    "yargs": "^17.4.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.5",
